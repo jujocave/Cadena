@@ -4,5 +4,6 @@ import java.util.*;
 			Scanner sc=new Scanner(System.in);
 			
 			System.out.println("dame una cadena");
+			System.out.println("dame otra cadena");
 			
 			}}
